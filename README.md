@@ -1,3 +1,31 @@
+AZ_genes - Privacy-First Genetic Data Management
+
+A B2B SaaS platform that provides a single source of truth for genetic and health records, secured by Distributed Ledger Technology (DLT).
+
+Links :
+
+-PitchDeck video
+
+https://www.canva.com/design/DAG0KvOmGu4/bplGbnkHvS2hZFBipmloig/view?utm_content=DAG0KvOmGu4&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
+-PitchDeck pdf
+
+https://www.canva.com/design/DAG0KvOmGu4/lfbLgNxMlLbJPgDiruI9Cw/edit?utm_content=DAG0KvOmGu4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+-AppDemoVideo
+
+https://www.canva.com/design/DAG3YytAzVM/WW9-Yt-mYt9EBu1WpO2ivw/view?utm_content=DAG3YytAzVM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0bdec65d25
+
+-Hedera Certificates
+
+Isabel Benedí https://certs.hashgraphdev.com/ebc5fac9-828b-4d8a-91bd-049d1dac8c6f.pdf
+
+Abdulahi
+
+https://certs.hashgraphdev.com/c9590ee9-1a64-4740-a6d4-da4921374b41.pdf
+
+This is a Next.js project bootstrapped with create-next-app.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
